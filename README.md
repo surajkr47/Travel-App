@@ -36,11 +36,7 @@ Edit
 ![Hotel Selection](screenshots/hotel_selection.png)
 🧑‍💻 How to Use / Run the Project
 Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/fast-travel.git
+git clone https://github.com/surajkr47/fast-travel.git
 Open the project in Android Studio.
 
 Connect your emulator or physical device.
